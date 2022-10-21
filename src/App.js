@@ -16,7 +16,16 @@ export default function App() {
           <Dictionary defaultKeyword="dictionary" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Taisiia Kompaniiets</small>
+          <small>
+            This project was coded by Taisiia Kompaniiets and is{" "}
+            <a href="https://github.com/TaisiiaK/dictionary-project.git">
+              open-sourced on GitHub
+            </a>{" "}
+            and{" "}
+            <a href="https://fabulous-arithmetic-863bb9.netlify.app/">
+              hosted on Netlify
+            </a>
+          </small>
         </footer>
       </div>
     </div>
